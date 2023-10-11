@@ -1,0 +1,15 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Fusion",
+      "category": "UI Kit",
+      "place": "Hotel Congress",
+      "date": "Fri, 13, Oct",
+      "href": "#",
+      "price": "$49",
+      "imageSrc": "https://tailwindui.com/img/ecommerce-images/product-page-05-related-product-01.jpg",
+      "imageAlt": "Payment application dashboard screenshot with transaction table, financial highlights, and main clients on colorful purple background."
+    }
+  ]
+}
