@@ -12,41 +12,99 @@
       "imageAlt": "Payment application dashboard screenshot with transaction table, financial highlights, and main clients on colorful purple background."
     }
   ],
-  "eventDetails": [
-    {
-      "event": {
-        "name": "Celestial Voyage - A Night of Psytrance Magic",
-        "version": {
-          "name": "1.0",
-          "date": "June 5, 2021",
-          "datetime": "2021-06-05"
-        },
-        "price": "$220",
-        "description": "Embark on a journey through sound and spirit at Celestial Voyage—an immersive psytrance experience hosted on Psyfever. Let the cosmic beats guide you as we unite in a celebration of love, unity, and sonic exploration",
-        "highlights": [
-          "200+ SVG icons in 3 unique styles",
-          "Compatible with Figma, Sketch, and Adobe XD",
-          "Drawn on 24 x 24 pixel grid"
-        ],
-        "imageSrc": "https://tailwindui.com/img/ecommerce-images/product-page-05-product-01.jpg",
-        "imageAlt": "Sample of 30 icons with friendly and fun details in outline, filled, and brand color styles."
+  "eventDetails": {
+    "event": {
+      "name": "Celestial Voyage - A Night of Psytrance Magic",
+      "version": {
+        "name": "1.0",
+        "date": "June 5, 2021",
+        "datetime": "2021-06-05"
       },
-
-      "faqs": [
-        {
-          "question": "Is there a dress code?",
-          "answer": "Embrace your individuality—express yourself freely. There are no boundaries in the realm of Psyfever."
-        },
-        {
-          "question": "Are there age restrictions?",
-          "answer": "All cosmic travelers are welcome, but please check the event details for any age-specific guidelines."
-        }
+      "price": "$220",
+      "description": "Embark on a journey through sound and spirit at Celestial Voyage—an immersive psytrance experience hosted on Psyfever. Let the cosmic beats guide you as we unite in a celebration of love, unity, and sonic exploration",
+      "highlights": [
+        "200+ SVG icons in 3 unique styles",
+        "Compatible with Figma, Sketch, and Adobe XD",
+        "Drawn on 24 x 24 pixel grid"
       ],
-      "about": {
-        "href": "#",
-        "summary": "By participating, you agree to dance in harmony with others, respect the cosmic energy, and abide by Psyfever's principles of love, unity, and sonic exploration. Let the music be your guide.",
-        "content": "1. <strong>Harmony Zone:</strong> Respect the sacred space—let love and positive vibes flow. Any form of negativity disrupts the cosmic harmony. 2. <strong>Dance Liberation:</strong> The dance floor is your canvas; express freely. Embrace diversity and move to the rhythm of your own cosmic beat. 3. <strong>Connection Mandala:</strong> Forge connections with fellow cosmic travelers. Share smiles, exchange energy, and create a web of unity. 4. <strong>Respect Gaia's Playground:</strong> Treat the venue with reverence. Dispose of waste responsibly, and help keep our shared space pristine. 5. <strong>Frequency Moderation:</strong> Moderation is the key—whether it's substances or volume. Let the music elevate, not overwhelm. 6. <strong>Celestial Timekeeping:</strong> Respect event timelines. The cosmic journey unfolds seamlessly when we flow with the rhythm of time. 7. <strong>Attire of Cosmic Expression:</strong> There's no dress code, only the freedom to express your cosmic self. Wear your energy proudly. 8. <strong>Safe Passage:</strong> Look out for one another. If you see a fellow traveler in need, extend a helping hand. We're all on this journey together. 9. <strong>Resonate Responsibly:</strong> Let the echoes of your experience be positive. Be mindful of your impact on the collective consciousness. 10. <strong>Infinite Gratitude:</strong> Gratitude is the highest vibration. Thank the organizers, the artists, and the cosmic energy that binds us all."
+      "imageSrc": "https://tailwindui.com/img/ecommerce-images/product-page-05-product-01.jpg",
+      "imageAlt": "Sample of 30 icons with friendly and fun details in outline, filled, and brand color styles."
+    },
+
+    "faqs": [
+      {
+        "question": "Is there a dress code?",
+        "answer": "Embrace your individuality—express yourself freely. There are no boundaries in the realm of Psyfever."
+      },
+      {
+        "question": "Are there age restrictions?",
+        "answer": "All cosmic travelers are welcome, but please check the event details for any age-specific guidelines."
       }
+    ],
+    "about": {
+      "href": "#",
+      "summary": "By participating, you agree to dance in harmony with others, respect the cosmic energy, and abide by Psyfever's principles of love, unity, and sonic exploration. Let the music be your guide.",
+      "content": "1. <strong>Harmony Zone:</strong> Respect the sacred space—let love and positive vibes flow. Any form of negativity disrupts the cosmic harmony. 2. <strong>Dance Liberation:</strong> The dance floor is your canvas; express freely. Embrace diversity and move to the rhythm of your own cosmic beat. 3. <strong>Connection Mandala:</strong> Forge connections with fellow cosmic travelers. Share smiles, exchange energy, and create a web of unity. 4. <strong>Respect Gaia's Playground:</strong> Treat the venue with reverence. Dispose of waste responsibly, and help keep our shared space pristine. 5. <strong>Frequency Moderation:</strong> Moderation is the key—whether it's substances or volume. Let the music elevate, not overwhelm. 6. <strong>Celestial Timekeeping:</strong> Respect event timelines. The cosmic journey unfolds seamlessly when we flow with the rhythm of time. 7. <strong>Attire of Cosmic Expression:</strong> There's no dress code, only the freedom to express your cosmic self. Wear your energy proudly. 8. <strong>Safe Passage:</strong> Look out for one another. If you see a fellow traveler in need, extend a helping hand. We're all on this journey together. 9. <strong>Resonate Responsibly:</strong> Let the echoes of your experience be positive. Be mindful of your impact on the collective consciousness. 10. <strong>Infinite Gratitude:</strong> Gratitude is the highest vibration. Thank the organizers, the artists, and the cosmic energy that binds us all."
     }
-  ]
+  },
+  "dashboardDetails": {
+    "name": "Anudeep Anisetty",
+    "balance_from_last_pay": "2,000",
+    "no_of_live_events": 20,
+    "organization_name": "Hypoalien Events",
+    "isVerified": true,
+    "greetings": "Good Morning, ",
+    "transactions": [
+      {
+        "id": 1,
+        "name": "Cosmic blast",
+        "href": "#",
+        "amount": "$20,000",
+        "currency": "USD",
+        "status": "success",
+        "date": "July 11, 2020",
+        "datetime": "2020-07-11"
+      },
+      {
+        "id": 1,
+        "name": "Cosmic blast",
+        "href": "#",
+        "amount": "$20,000",
+        "currency": "USD",
+        "status": "success",
+        "date": "July 11, 2020",
+        "datetime": "2020-07-11"
+      },
+      {
+        "id": 1,
+        "name": "Cosmic blast",
+        "href": "#",
+        "amount": "$20,000",
+        "currency": "USD",
+        "status": "success",
+        "date": "July 11, 2020",
+        "datetime": "2020-07-11"
+      },
+      {
+        "id": 1,
+        "name": "Cosmic blast",
+        "href": "#",
+        "amount": "$20,000",
+        "currency": "USD",
+        "status": "success",
+        "date": "July 11, 2020",
+        "datetime": "2020-07-11"
+      },
+      {
+        "id": 1,
+        "name": "Cosmic blast",
+        "href": "#",
+        "amount": "$20,000",
+        "currency": "USD",
+        "status": "success",
+        "date": "July 11, 2020",
+        "datetime": "2020-07-11"
+      }
+    ]
+  }
 }
