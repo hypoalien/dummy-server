@@ -106,5 +106,127 @@
         "datetime": "2020-07-11"
       }
     ]
-  }
+  },
+  "saleDetails": [
+    {
+      "name": "ANUDEEP Walton",
+      "event": "Front-end Developer",
+      "email": "lindsay.walton@example.com",
+      "price": "999",
+      "quantity": 2,
+      "netTotal": 1999,
+      "transactionId": "ASHRBW342",
+      "ticketId": "ERTSDF233232FDD"
+    },
+    {
+      "name": "Lindsay Walton",
+      "event": "Front-end Developer",
+      "email": "lindsay.walton@example.com",
+      "price": "999",
+      "quantity": 2,
+      "netTotal": 1999,
+      "transactionId": "ASHRBW342",
+      "ticketId": "ERTSDF233232FDD"
+    },
+    {
+      "name": "Lindsay Walton",
+      "event": "Front-end Developer",
+      "email": "lindsay.walton@example.com",
+      "price": "999",
+      "quantity": 2,
+      "netTotal": 1999,
+      "transactionId": "ASHRBW342",
+      "ticketId": "ERTSDF233232FDD"
+    },
+    {
+      "name": "Lindsay Walton",
+      "event": "Front-end Developer",
+      "email": "lindsay.walton@example.com",
+      "price": "999",
+      "quantity": 2,
+      "netTotal": 1999,
+      "transactionId": "ASHRBW342",
+      "ticketId": "ERTSDF233232FDD"
+    },
+    {
+      "name": "Lindsay Walton",
+      "event": "Front-end Developer",
+      "email": "lindsay.walton@example.com",
+      "price": "999",
+      "quantity": 2,
+      "netTotal": 1999,
+      "transactionId": "ASHRBW342",
+      "ticketId": "ERTSDF233232FDD"
+    },
+    {
+      "name": "Lindsay Walton",
+      "event": "Front-end Developer",
+      "email": "lindsay.walton@example.com",
+      "price": "999",
+      "quantity": 2,
+      "netTotal": 1999,
+      "transactionId": "ASHRBW342",
+      "ticketId": "ERTSDF233232FDD"
+    },
+    {
+      "name": "Lindsay Walton",
+      "event": "Front-end Developer",
+      "email": "lindsay.walton@example.com",
+      "price": "999",
+      "quantity": 2,
+      "netTotal": 1999,
+      "transactionId": "ASHRBW342",
+      "ticketId": "ERTSDF233232FDD"
+    },
+    {
+      "name": "Lindsay Walton",
+      "event": "Front-end Developer",
+      "email": "lindsay.walton@example.com",
+      "price": "999",
+      "quantity": 2,
+      "netTotal": 1999,
+      "transactionId": "ASHRBW342",
+      "ticketId": "ERTSDF233232FDD"
+    },
+    {
+      "name": "Lindsay Walton",
+      "event": "Front-end Developer",
+      "email": "lindsay.walton@example.com",
+      "price": "999",
+      "quantity": 2,
+      "netTotal": 1999,
+      "transactionId": "ASHRBW342",
+      "ticketId": "ERTSDF233232FDD"
+    },
+    {
+      "name": "Lindsay Walton",
+      "event": "Front-end Developer",
+      "email": "lindsay.walton@example.com",
+      "price": "999",
+      "quantity": 2,
+      "netTotal": 1999,
+      "transactionId": "ASHRBW342",
+      "ticketId": "ERTSDF233232FDD"
+    },
+    {
+      "name": "Lindsay Walton",
+      "event": "Front-end Developer",
+      "email": "lindsay.walton@example.com",
+      "price": "999",
+      "quantity": 2,
+      "netTotal": 1999,
+      "transactionId": "ASHRBW342",
+      "ticketId": "ERTSDF233232FDD"
+    },
+    {
+      "name": "Lindsay Walton",
+      "event": "Front-end Developer",
+      "email": "lindsay.walton@example.com",
+      "price": "999",
+      "quantity": 2,
+      "netTotal": 1999,
+      "transactionId": "ASHRBW342",
+      "ticketId": "ERTSDF233232FDD"
+    }
+  ]
 }
