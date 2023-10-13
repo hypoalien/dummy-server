@@ -47,6 +47,26 @@
       "content": "1. <strong>Harmony Zone:</strong> Respect the sacred space—let love and positive vibes flow. Any form of negativity disrupts the cosmic harmony. 2. <strong>Dance Liberation:</strong> The dance floor is your canvas; express freely. Embrace diversity and move to the rhythm of your own cosmic beat. 3. <strong>Connection Mandala:</strong> Forge connections with fellow cosmic travelers. Share smiles, exchange energy, and create a web of unity. 4. <strong>Respect Gaia's Playground:</strong> Treat the venue with reverence. Dispose of waste responsibly, and help keep our shared space pristine. 5. <strong>Frequency Moderation:</strong> Moderation is the key—whether it's substances or volume. Let the music elevate, not overwhelm. 6. <strong>Celestial Timekeeping:</strong> Respect event timelines. The cosmic journey unfolds seamlessly when we flow with the rhythm of time. 7. <strong>Attire of Cosmic Expression:</strong> There's no dress code, only the freedom to express your cosmic self. Wear your energy proudly. 8. <strong>Safe Passage:</strong> Look out for one another. If you see a fellow traveler in need, extend a helping hand. We're all on this journey together. 9. <strong>Resonate Responsibly:</strong> Let the echoes of your experience be positive. Be mindful of your impact on the collective consciousness. 10. <strong>Infinite Gratitude:</strong> Gratitude is the highest vibration. Thank the organizers, the artists, and the cosmic energy that binds us all."
     }
   },
+  "ticketVariants": [
+    {
+      "name": "General Admission",
+      "description": "Access to the event with standard amenities",
+      "price": 20,
+      "quantity": 0
+    },
+    {
+      "name": "VIP",
+      "description": "Premium access, reserved seating, and more",
+      "price": 50,
+      "quantity": 0
+    },
+    {
+      "name": "Premium",
+      "description": "Exclusive perks, backstage access, and more",
+      "price": 75,
+      "quantity": 0
+    }
+  ],
   "dashboardDetails": {
     "name": "Anudeep Anisetty",
     "balance_from_last_pay": "2,000",
